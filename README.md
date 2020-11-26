@@ -8,9 +8,6 @@ Feel free to connect with me 👇
 [![Mail Badge](https://img.shields.io/badge/-MrinmaySantra-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mrinmay7875@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-MrinmaySantra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinmay-santra/) [![Twitter Badge](https://img.shields.io/badge/-@iam_Mrinmay-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/iam_Mrinmay) [![Mail Badge](https://img.shields.io/badge/-@MrinmaySantra-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mrinmay.santra1/)
 
 
-Skills: JS / HTML / CSS/ REACT/ NODE / EXPRESS / MONGODB
-
-
 - 🔭 I’m currently working on **Improving React.js skills**
 - 🌱 I’m currently learning **React.js**
 - 👯 I’m looking to collaborate on **MERN Stack projects**
