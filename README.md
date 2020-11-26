@@ -14,13 +14,11 @@ Skills: JS / HTML / CSS/ REACT/ NODE / EXPRESS / MONGODB
 - 🔭 I’m currently working on **Improving React.js skills**
 - 🌱 I’m currently learning **React.js**
 - 👯 I’m looking to collaborate on **MERN Stack projects**
-
 - 🤝 I’m looking for help with **React.js developments**
-
 - 💬 Ask me about **Full Stack Web Development**
-
 - 📫 How to reach me **mrinmay7875@gmail.com**
 
+- ⚡ Fun fact **Just Do It!" It is the best piece of advice that I have taken and that I have given..Don't overthink, don't procrastinate, don't think you are not good enough or smart enough...Just Do It! 💪💪**
 
 
 - ⚡ Fun fact **Just Do It!" It is the best piece of advice that I have taken and that I have given..Don't overthink, don't procrastinate, don't think you are not good enough or smart enough...Just Do It! 💪💪**
