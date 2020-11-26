@@ -44,7 +44,9 @@ I love to design and develop awesome looking websites for mobile and desktop dev
    
     
 
+📈 My GitHub Stats
 
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrinmay-santra&show_icons=true&theme=gotham" alt="mrinmay-santra" />
 
 
