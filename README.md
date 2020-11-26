@@ -44,8 +44,6 @@ I love to design and develop awesome looking websites for mobile and desktop dev
    
     
 
-📈 My GitHub Stats
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
