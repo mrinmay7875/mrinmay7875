@@ -4,6 +4,7 @@
 I love to design and develop awesome looking websites for mobile and desktop devices.
 
 
+
 <h3 >Feel free to connect with me 👇</h3>
 
 [![Mail Badge](https://img.shields.io/badge/-MrinmaySantra-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mrinmay7875@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-MrinmaySantra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinmay-santra/) [![Twitter Badge](https://img.shields.io/badge/-@iam_Mrinmay-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/iam_Mrinmay) [![Mail Badge](https://img.shields.io/badge/-@MrinmaySantra-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mrinmay.santra1/)
@@ -23,7 +24,7 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 
 
 
-
+<hr>
 
   
 
@@ -31,6 +32,7 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a style="margin-right:20px, padding-left: 20px"  href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a style="margin-right:20px, padding-left: 20px"  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
+<hr>
 
 
 #### My Details:-
@@ -38,7 +40,7 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1FkA_MgJe2sQL1wsYJko0-XKqBY4MdYPL/view?usp=sharing)
 - :email: mrinmay7875@gmail.com
 
-
+<hr>
 
 ![Profile views](https://gpvc.arturio.dev/mrinmay-santra)  
    
