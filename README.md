@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Mrinmay
 #### I am a aspiring full stack web developer
-
+![I am GitHub Readme Generator's creator](https://www.mobinius.com/wp-content/uploads/2020/03/mernstack-development-company.jpg)
 
 I am a Web Developer specialized in Front End and my role is to write and style the front-end components that meet the requirements of our mocks and fulfill our user stories. I specialize in HTML,CSS, JavaScript, Bootstrap, SASS. I also have experience working on NodeJS, MongoDB and ExpressJS.
-(https://www.mobinius.com/wp-content/uploads/2020/03/mernstack-development-company.jpg)
+
 
 Skills: JS / HTML / CSS/ REACT/ NODE / EXPRESS / MONGODB
 
