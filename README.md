@@ -14,7 +14,14 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 
 
 - 🔭 I’m currently working on **Improving React.js skills**
-- 🌱 I’m currently learning **React.js**
+
+- 🌱 I’m currently learning 
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+- 🚀 I use daily:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 - 🤝 I’m looking for help with **React.js developments**
 - 💬 Ask me about **Full Stack Web Development**
@@ -53,3 +60,8 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 
 
 </details>
+
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmay-santra&hide=TeX&layout=compact)
