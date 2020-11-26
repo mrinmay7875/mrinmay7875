@@ -20,9 +20,6 @@ Skills: JS / HTML / CSS/ REACT/ NODE / EXPRESS / MONGODB
 
 - ⚡ Fun fact **Just Do It!" It is the best piece of advice that I have taken and that I have given..Don't overthink, don't procrastinate, don't think you are not good enough or smart enough...Just Do It! 💪💪**
 
-
-- ⚡ Fun fact **Just Do It!" It is the best piece of advice that I have taken and that I have given..Don't overthink, don't procrastinate, don't think you are not good enough or smart enough...Just Do It! 💪💪**
-
   
 
 ![Profile views](https://gpvc.arturio.dev/mrinmay-santra)  
