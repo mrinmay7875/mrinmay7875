@@ -17,7 +17,7 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 
 - 🌱 I’m currently learning 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-- 🚀 I use daily:
+- 🚀 I use daily:  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
