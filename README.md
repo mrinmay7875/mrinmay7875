@@ -16,18 +16,9 @@ Skills: JS / HTML / CSS/ REACT/ NODE / EXPRESS / MONGODB
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 - 🤝 I’m looking for help with **React.js developments**
 - 💬 Ask me about **Full Stack Web Development**
-- 📫 How to reach me **mrinmay7875@gmail.com**
-
+- 📫 How to reach me 👉 **mrinmay7875@gmail.com**
 - ⚡ Fun fact **Just Do It!" It is the best piece of advice that I have taken and that I have given..Don't overthink, don't procrastinate, don't think you are not good enough or smart enough...Just Do It! 💪💪**
 
-
-
-- 🔭 I’m currently working on **Slearn** (Professional Courses Platform).
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
 
 
 
