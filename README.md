@@ -1,13 +1,14 @@
-### Hi there 👋, my name is Mrinmay
-#### I am a aspiring full stack web developer
-![I am GitHub Readme Generator's creator](https://www.mobinius.com/wp-content/uploads/2020/03/mernstack-development-company.jpg)
+### Hi, I am  Mrinmay! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  
+#### I am an aspiring full stack web developer
+![I am a aspiring MERN stack developer](https://www.mobinius.com/wp-content/uploads/2020/03/mernstack-development-company.jpg)
 
-I am a Web Developer specialized in Front End and my role is to write and style the front-end components that meet the requirements of our mocks and fulfill our user stories. I specialize in HTML,CSS, JavaScript, Bootstrap, SASS. I also have experience working on NodeJS, MongoDB and ExpressJS.
+I love to design and develop awesome looking websites for mobile and desktop devices. 
 
+![Twitter URL](https://img.shields.io/twitter/url?label=%40iam_Mrinmay&style=social&url=https%3A%2F%2Ftwitter.com%2Fiam_Mrinmay)
 
 Skills: JS / HTML / CSS/ REACT/ NODE / EXPRESS / MONGODB
 
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning React.js  ok fine
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrinmay-santra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrinmay-santra//)  
