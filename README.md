@@ -12,9 +12,7 @@ Skills: JS / HTML / CSS/ REACT/ NODE / EXPRESS / MONGODB
 
 
 - 🔭 I’m currently working on **Improving React.js skills**
-
 - 🌱 I’m currently learning **React.js**
-
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
 - 🤝 I’m looking for help with **React.js developments**
