@@ -35,8 +35,6 @@ Skills: JS / HTML / CSS/ REACT/ NODE / EXPRESS / MONGODB
 #### My Details:-
 
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1FkA_MgJe2sQL1wsYJko0-XKqBY4MdYPL/view?usp=sharing)
-
--:New Resume/CV : <a href="https://drive.google.com/file/d/1FkA_MgJe2sQL1wsYJko0-XKqBY4MdYPL/view?usp=sharing" target="_blank">New Resume CV</a>
 - :email: mrinmay7875@gmail.com
 
 
