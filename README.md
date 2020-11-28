@@ -13,10 +13,10 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 
   
 <hr>
-<!-- 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="310" /> -->
 
- <img style="position:relative; top:50px" align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="310" />
+ 
+ <img align="right" alt="GIF" src="https://github.com/mrinmay-santra/mrinmay-santra/blob/main/code.gif?raw=true" width="500" height="310" /> 
+
 
 
 **Talking about Personal Stuffs:**
@@ -88,5 +88,3 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 
 ![Visitor Count](https://profile-counter.glitch.me/{mrinmay-santra}/count.svg)
 
-
- <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="310" />
