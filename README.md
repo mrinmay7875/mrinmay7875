@@ -51,7 +51,7 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 
 #### My Details:-
 
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1UPX8swKyLiL6CZ_L1ArNwHbrikKTvsnp/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/11E1JrwyKt1w6UERUnmeEHJjNFHe9W6c3/view?usp=sharing)
 - :email: mrinmay7875@gmail.com
 
 <hr>
