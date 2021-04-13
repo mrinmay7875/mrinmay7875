@@ -43,7 +43,7 @@ I love to design and develop awesome looking websites for mobile and desktop dev
 <a style="margin-right:20px, padding-left: 20px"  href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="65" height="40"/> </a></a>
 <a style="margin-right:20px, padding-left: 20px"  href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindCSS" width="150" height="70"/> </a> 
 <a style="margin-right:20px, padding-left: 20px"  href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a> 
-<a style="margin-right:20px, margin-left: 30px,padding-left: 40px"  href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgress" width="40" height="40"/> </a> 
+<a style="margin-right:20px, margin-left: 30px,padding-left: 40px"  href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgress" width="40" height="40" target="_blank"/> </a> 
 </p>
 
 <hr>
