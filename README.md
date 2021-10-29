@@ -7,9 +7,10 @@ A passionate fullstack web  developer  and I love to design and develop awesome 
 
 <h3 >Feel free to connect with me 👇</h3>
 
-
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/iam_Mrinmay?style=social)](https://twitter.com/iam_Mrinmay)
-[![Mail Badge](https://img.shields.io/badge/-MrinmaySantra-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mrinmay7875@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-MrinmaySantra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinmay-santra/)  [![Mail Badge](https://img.shields.io/badge/-@MrinmaySantra-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mrinmay.santra1/)
+<a href="mailto:mrinmay7875@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/iam_Mrinmay"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://mrinmay-santra.hashnode.dev//"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mrinmay-santra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
   
 <hr>
@@ -21,32 +22,45 @@ A passionate fullstack web  developer  and I love to design and develop awesome 
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning 
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-- 🚀 I use daily:   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 🌱 I’m currently learning **React.js, Backend with Node and Express**
+- 🌐 My website: [mrinmaysantra](https://www.mrinmaysantra.com/)
 - 👯 I’m looking to collaborate on **MERN Stack projects**
-- ⚡ Fun fact **Just Do It!" It is the best piece of advice that I have taken and that I have given..Don't overthink, don't procrastinate, don't think you are not good enough or smart enough...Just Do It! 💪💪**
+- 💬 Ask me about **React, Node.js, JavaScript**
+- 📫 How to reach me **mrinmay7875@gmail.com**
+- ⚡ Fun fact **The hobby that I could never give up is reading books and watching cricket**
 
 
 
 
+
+<br>
+
+<br>  
 <hr>
 
-  
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a style="margin-right:20px, padding-left: 20px"  href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="30" height="40"/> </a><a style="margin-right:20px, padding-left: 20px" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/240/000000/css3.png" alt="css3" width="40" height="40"/> </a> <a style="margin-right:20px, padding-left: 20px"  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript.png" alt="javascript" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="80" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/nodejs.png" alt="nodejs" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="80" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/mongodb.png" alt="mongodb" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/144/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="60"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluent/144/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="75" height="35"/> </a><a style="margin-right:20px, padding-left: 20px"  href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a>
-<a style="margin-right:20px, padding-left: 20px"  href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="65" height="40"/> </a></a>
-<a style="margin-right:20px, padding-left: 20px"  href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindCSS" width="150" height="70"/> </a> 
-<a style="margin-right:20px, padding-left: 20px"  href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a> 
-<a style="margin-right:20px, margin-left: 30px,padding-left: 40px"  href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgress" width="40" height="40" target="_blank"/> </a> 
+  <h3 align="center">My Interest</h3>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
 </p>
 
-<hr>
 
 
 
@@ -62,7 +76,7 @@ A passionate fullstack web  developer  and I love to design and develop awesome 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mrinmay-santra&show_icons=true&theme=gotham" alt="mrinmay-santra" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mrinmay7875&show_icons=true&theme=gotham" alt="mrinmay-santra" />
 
 
 </details>
@@ -70,15 +84,32 @@ A passionate fullstack web  developer  and I love to design and develop awesome 
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmay-santra&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmay7875&hide=TeX&layout=compact)
 
-<br>
-<br>
 
+<hr>
+
+##  📝  My Latest Blog Posts 
+   
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://mrinmay-santra.hashnode.dev/nextjs-12-is-here" title="Next.js 12 is here - All new features and updates"><img src="https://mrinmay-santra.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1635423984505%2FR183R3Y8Ym.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Next.js 12 is here - All new features and updates" width="250px" align="left" /></a>
+<a href="https://mrinmay-santra.hashnode.dev/nextjs-12-is-here" title="Next.js 12 is here - All new features and updates"><strong>Next.js 12 is here - All new features and updates</strong></a>
+<div><strong></strong> | <strong>28th Oct, 2021</strong></div>
+<br/> Next.js 12 comes with a lots of new features and updates.
+There’s a new Rust compiler, that make builds and refreshes nice and speedy, React 18 support, native ESM support, and a few other really neat thing in Next.js 12. Read this article to know more about Next.js 12 </p> 
+
+
+
+<br/>
+<!-- HASHNODE_BLOG:END -->
+
+<hr>
 
 <i>Random dev joke for you! (create your own by clicking here 👇)</i><br>
 <br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
 
 
 **Profile Visit Count 👇**
