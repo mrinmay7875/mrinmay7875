@@ -16,7 +16,7 @@ A passionate fullstack web  developer  and I love to design and develop awesome 
 <hr>
 
  
- <img align="right" alt="GIF" src="https://github.com/mrinmay-santra/mrinmay-santra/blob/main/code.gif?raw=true" width="400" height="200" /> 
+ <img align="right" alt="GIF" src="https://github.com/mrinmay-santra/mrinmay-santra/blob/main/code.gif?raw=true" width="300" height="200" /> 
 
 
 
