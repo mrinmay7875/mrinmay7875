@@ -23,7 +23,6 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 
 - 🌱 I’m currently learning **React.js, Backend with Node and Express**
 - 🌐 My website: [mrinmaysantra](https://www.mrinmaysantra.com/)
-- 👯 I’m looking to collaborate on **MERN Stack projects**
 - 💬 Ask me about **React, Node.js, JavaScript**
 - 📫 How to reach me **mrinmay7875@gmail.com**
 - ⚡ Fun fact **The hobby that I could never give up is reading books and watching cricket**
@@ -58,6 +57,11 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
   <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+
+
 </p>
 
 
@@ -65,7 +69,7 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 
 #### My Details:-
 
-- :paperclip: [My Resume/CV](https://bit.ly/3wTJHJG)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/17_xk-dTVyqxnVxTil7eCz-eymNTa5RSb/view)
 - :email: mrinmay7875@gmail.com
 
 <hr>
