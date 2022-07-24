@@ -98,20 +98,17 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 
 <hr>
 
-   
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+ 
+ ## GitHub Stats:-
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mrinmay7875&show_icons=true&theme=gotham" alt="mrinmay-santra" />
 
-
-</details>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=mrinmay7875&theme=vue-dark" alt="mrinmay-santra" />
 
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmay7875&hide=TeX&layout=compact)
 
 
 <hr>
