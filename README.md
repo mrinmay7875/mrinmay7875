@@ -7,10 +7,10 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 <h3 >Feel free to connect with me 👇</h3>
 
 <a href="mailto:mrinmay7875@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://twitter.com/iam_Mrinmay"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://mrinmay-santra.hashnode.dev//"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mrinmay-santra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCQLatIANzB61fBZoLwU4eng"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://twitter.com/iam_Mrinmay" target="_blank" ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://mrinmay-santra.hashnode.dev//" target="_blank" ><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mrinmay-santra" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCQLatIANzB61fBZoLwU4eng" target="_blank" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 
  
 <hr>
