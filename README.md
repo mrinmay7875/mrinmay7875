@@ -22,12 +22,9 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning **React.js, Backend with Node and Express**
-- 🌐 My website: [mrinmaysantra](https://www.mrinmaysantra.com/)
-- 💬 Ask me about **React, Node.js, JavaScript**
-- 📫 How to reach me **mrinmay7875@gmail.com**
-- ⚡ Fun fact **The hobby that I could never give up is reading books and watching cricket**
 
+- 🌐 Visit my website to know more about me: [mrinmaysantra](https://www.mrinmaysantra.com/)
+- 📫 How to reach me **mrinmay7875@gmail.com**
 
 
 
@@ -44,56 +41,45 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 
 - ### Languages:
   
-  <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-  <code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
-  <br></br>
+  <img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 - ### Frameworks:
 
-  <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-  <code><img height="30" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
-  <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
+  <img height="30" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img height="30" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  
 
 - ### Backend:
-  <code><img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
-
-  <code><img height="30" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
-  <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"></code>
+  <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
   
 - ### Database:
-    <code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-     <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&   logoColor=white"></code>
+    <img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
     
 - ### Cloud:
-    <code><img height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></code>
-
-
-
+    <img height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
   
 
 - ### OS:
 
-  <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code> 
-  <code><img height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></code> 
+  <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 
 <hr>
 
 ## My Details:-
 
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/17_xk-dTVyqxnVxTil7eCz-eymNTa5RSb/view)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1jFEccT7VWQ3ui5xJSNWKd6agWxRWZMzm/view)
 - :email: mrinmay7875@gmail.com
 
 <hr>
@@ -113,20 +99,8 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 
 <hr>
 
-##  📝  My Latest Blog Posts 
-   
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://mrinmay-santra.hashnode.dev/nextjs-12-is-here" title="Next.js 12 is here - All new features and updates"><img src="https://mrinmay-santra.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1635423984505%2FR183R3Y8Ym.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Next.js 12 is here - All new features and updates" width="250px" align="left" /></a>
-<a href="https://mrinmay-santra.hashnode.dev/nextjs-12-is-here" title="Next.js 12 is here - All new features and updates"><strong>Next.js 12 is here - All new features and updates</strong></a>
-<div><strong></strong> | <strong>28th Oct, 2021</strong></div>
-<br/> Next.js 12 comes with a lots of new features and updates.
-There’s a new Rust compiler, that make builds and refreshes nice and speedy, React 18 support, native ESM support, and a few other really neat thing in Next.js 12. Read this article to know more about Next.js 12 </p> 
 
 
-
-<br/>
-<!-- HASHNODE_BLOG:END -->
 
 <hr>
 
