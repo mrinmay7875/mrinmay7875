@@ -79,6 +79,11 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#9](https://github.com/mrinmay7875/react_typing_app/issues/9) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
+2. 🗣 Commented on [#9](https://github.com/mrinmay7875/react_typing_app/issues/9#issuecomment-1702068815) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
+3. 🗣 Commented on [#10](https://github.com/mrinmay7875/react_typing_app/pull/10#issuecomment-1702067076) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
+4. 🎉 Merged PR [#10](https://github.com/mrinmay7875/react_typing_app/pull/10) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
+5. 🗣 Commented on [#9](https://github.com/mrinmay7875/react_typing_app/issues/9#issuecomment-1702010012) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
