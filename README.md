@@ -81,6 +81,9 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## Activity Graph
+[![Mrinmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrinmay7875&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## My Details:-
 
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1jFEccT7VWQ3ui5xJSNWKd6agWxRWZMzm/view)
