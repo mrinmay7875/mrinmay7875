@@ -77,6 +77,10 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 
 <hr>
 
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## My Details:-
 
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1jFEccT7VWQ3ui5xJSNWKd6agWxRWZMzm/view)
