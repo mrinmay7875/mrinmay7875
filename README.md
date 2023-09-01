@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Mrinmay</h1>
 <!-- <h3 align="center">A passionate fullstack web  developer from India</h3> -->
 
-A Fullstack Developer with a Passion for Coding and a Drive to Succeed
+I am a fullstack developer always eager to learn and experiment with new things.
 
 
 <h3 >Feel free to connect with me 👇</h3>
@@ -77,7 +77,7 @@ A Fullstack Developer with a Passion for Coding and a Drive to Succeed
 
 <hr>
 
-# Recent Activity :zap:
+## Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#9](https://github.com/mrinmay7875/react_typing_app/issues/9) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
 2. 🗣 Commented on [#9](https://github.com/mrinmay7875/react_typing_app/issues/9#issuecomment-1702068815) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
