@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/mrinmay7875/react_todo_challenge/issues/2) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-2. ❗ Opened issue [#1](https://github.com/mrinmay7875/react_todo_challenge/issues/1) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-3. 🔒 Closed issue [#8](https://github.com/mrinmay7875/react_typing_app/issues/8) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
-4. 🗣 Commented on [#8](https://github.com/mrinmay7875/react_typing_app/issues/8#issuecomment-1702845085) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
-5. 🗣 Commented on [#11](https://github.com/mrinmay7875/react_typing_app/pull/11#issuecomment-1702842759) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
+1. 🗣 Commented on [#2](https://github.com/mrinmay7875/react_todo_challenge/issues/2#issuecomment-1712804575) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+2. ❗ Opened issue [#2](https://github.com/mrinmay7875/react_todo_challenge/issues/2) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+3. ❗ Opened issue [#1](https://github.com/mrinmay7875/react_todo_challenge/issues/1) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+4. 🔒 Closed issue [#8](https://github.com/mrinmay7875/react_typing_app/issues/8) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
+5. 🗣 Commented on [#8](https://github.com/mrinmay7875/react_typing_app/issues/8#issuecomment-1702845085) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
