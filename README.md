@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/mrinmay7875/react_todo_challenge/issues/1#issuecomment-1712873709) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-2. 🗣 Commented on [#3](https://github.com/mrinmay7875/react_todo_challenge/pull/3#issuecomment-1712870607) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-3. 🗣 Commented on [#4](https://github.com/mrinmay7875/react_todo_challenge/pull/4#issuecomment-1712868702) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-4. 🗣 Commented on [#2](https://github.com/mrinmay7875/react_todo_challenge/issues/2#issuecomment-1712804575) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-5. ❗ Opened issue [#2](https://github.com/mrinmay7875/react_todo_challenge/issues/2) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+1. ❌ Closed PR [#3](https://github.com/mrinmay7875/react_todo_challenge/pull/3) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+2. 🗣 Commented on [#1](https://github.com/mrinmay7875/react_todo_challenge/issues/1#issuecomment-1712873709) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+3. 🗣 Commented on [#3](https://github.com/mrinmay7875/react_todo_challenge/pull/3#issuecomment-1712870607) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+4. 🗣 Commented on [#4](https://github.com/mrinmay7875/react_todo_challenge/pull/4#issuecomment-1712868702) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+5. 🗣 Commented on [#2](https://github.com/mrinmay7875/react_todo_challenge/issues/2#issuecomment-1712804575) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
