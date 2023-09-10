@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/mrinmay7875/react_typing_app/issues/4) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
-2. ❌ Closed PR [#3](https://github.com/mrinmay7875/react_todo_challenge/pull/3) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-3. 🗣 Commented on [#1](https://github.com/mrinmay7875/react_todo_challenge/issues/1#issuecomment-1712873709) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-4. 🗣 Commented on [#3](https://github.com/mrinmay7875/react_todo_challenge/pull/3#issuecomment-1712870607) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-5. 🗣 Commented on [#4](https://github.com/mrinmay7875/react_todo_challenge/pull/4#issuecomment-1712868702) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+1. 🔒 Closed issue [#2](https://github.com/mrinmay7875/react_todo_challenge/issues/2) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+2. 🗣 Commented on [#2](https://github.com/mrinmay7875/react_todo_challenge/issues/2#issuecomment-1712910500) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+3. 🗣 Commented on [#4](https://github.com/mrinmay7875/react_todo_challenge/pull/4#issuecomment-1712910383) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+4. 🎉 Merged PR [#4](https://github.com/mrinmay7875/react_todo_challenge/pull/4) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+5. 🔒 Closed issue [#4](https://github.com/mrinmay7875/react_typing_app/issues/4) in [mrinmay7875/react_typing_app](https://github.com/mrinmay7875/react_typing_app)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
