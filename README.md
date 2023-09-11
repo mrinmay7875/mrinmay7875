@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/mrinmay7875/react_todo_challenge/issues/1) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-2. 🗣 Commented on [#1](https://github.com/mrinmay7875/react_todo_challenge/issues/1#issuecomment-1712914811) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-3. 🗣 Commented on [#5](https://github.com/mrinmay7875/react_todo_challenge/pull/5#issuecomment-1712914592) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-4. 🎉 Merged PR [#5](https://github.com/mrinmay7875/react_todo_challenge/pull/5) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-5. 🔒 Closed issue [#2](https://github.com/mrinmay7875/react_todo_challenge/issues/2) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+1. 🗣 Commented on [#6](https://github.com/mrinmay7875/react_todo_challenge/pull/6#issuecomment-1714279676) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+2. 🎉 Merged PR [#6](https://github.com/mrinmay7875/react_todo_challenge/pull/6) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+3. 🔒 Closed issue [#1](https://github.com/mrinmay7875/react_todo_challenge/issues/1) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+4. 🗣 Commented on [#1](https://github.com/mrinmay7875/react_todo_challenge/issues/1#issuecomment-1712914811) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+5. 🗣 Commented on [#5](https://github.com/mrinmay7875/react_todo_challenge/pull/5#issuecomment-1712914592) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
