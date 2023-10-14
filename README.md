@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/wingkwong/react-quiz-component/pull/135#issuecomment-1762926728) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
-2. 💪 Opened PR [#135](https://github.com/wingkwong/react-quiz-component/pull/135) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
-3. ❗ Opened issue [#134](https://github.com/wingkwong/react-quiz-component/issues/134) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
-4. 🗣 Commented on [#6](https://github.com/mrinmay7875/react_todo_challenge/pull/6#issuecomment-1714279676) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
-5. 🎉 Merged PR [#6](https://github.com/mrinmay7875/react_todo_challenge/pull/6) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
+1. 🗣 Commented on [#135](https://github.com/wingkwong/react-quiz-component/pull/135#issuecomment-1762928605) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
+2. 🗣 Commented on [#135](https://github.com/wingkwong/react-quiz-component/pull/135#issuecomment-1762926728) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
+3. 💪 Opened PR [#135](https://github.com/wingkwong/react-quiz-component/pull/135) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
+4. ❗ Opened issue [#134](https://github.com/wingkwong/react-quiz-component/issues/134) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
+5. 🗣 Commented on [#6](https://github.com/mrinmay7875/react_todo_challenge/pull/6#issuecomment-1714279676) in [mrinmay7875/react_todo_challenge](https://github.com/mrinmay7875/react_todo_challenge)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
