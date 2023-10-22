@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/wingkwong/react-quiz-component/pull/136) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
-2. 🗣 Commented on [#135](https://github.com/wingkwong/react-quiz-component/pull/135#issuecomment-1762928605) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
-3. 🗣 Commented on [#135](https://github.com/wingkwong/react-quiz-component/pull/135#issuecomment-1762926728) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
-4. 💪 Opened PR [#135](https://github.com/wingkwong/react-quiz-component/pull/135) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
-5. ❗ Opened issue [#134](https://github.com/wingkwong/react-quiz-component/issues/134) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
+1. 💪 Opened PR [#47](https://github.com/kimyvgy/simple-scrollspy/pull/47) in [kimyvgy/simple-scrollspy](https://github.com/kimyvgy/simple-scrollspy)
+2. 💪 Opened PR [#136](https://github.com/wingkwong/react-quiz-component/pull/136) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
+3. 🗣 Commented on [#135](https://github.com/wingkwong/react-quiz-component/pull/135#issuecomment-1762928605) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
+4. 🗣 Commented on [#135](https://github.com/wingkwong/react-quiz-component/pull/135#issuecomment-1762926728) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
+5. 💪 Opened PR [#135](https://github.com/wingkwong/react-quiz-component/pull/135) in [wingkwong/react-quiz-component](https://github.com/wingkwong/react-quiz-component)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
