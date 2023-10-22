@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/naufaldi/next-landing-vpn/pull/32) in [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn)
-2. ❗ Opened issue [#31](https://github.com/naufaldi/next-landing-vpn/issues/31) in [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn)
-3. 🗣 Commented on [#791](https://github.com/brittanyrw/emojiscreen/pull/791#issuecomment-1774123970) in [brittanyrw/emojiscreen](https://github.com/brittanyrw/emojiscreen)
-4. 💪 Opened PR [#791](https://github.com/brittanyrw/emojiscreen/pull/791) in [brittanyrw/emojiscreen](https://github.com/brittanyrw/emojiscreen)
-5. 💪 Opened PR [#5511](https://github.com/zooniverse/front-end-monorepo/pull/5511) in [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
+1. 🗣 Commented on [#24](https://github.com/naufaldi/next-landing-vpn/issues/24#issuecomment-1774148806) in [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn)
+2. 💪 Opened PR [#33](https://github.com/naufaldi/next-landing-vpn/pull/33) in [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn)
+3. 💪 Opened PR [#32](https://github.com/naufaldi/next-landing-vpn/pull/32) in [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn)
+4. ❗ Opened issue [#31](https://github.com/naufaldi/next-landing-vpn/issues/31) in [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn)
+5. 🗣 Commented on [#791](https://github.com/brittanyrw/emojiscreen/pull/791#issuecomment-1774123970) in [brittanyrw/emojiscreen](https://github.com/brittanyrw/emojiscreen)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
