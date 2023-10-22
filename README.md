@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#791](https://github.com/brittanyrw/emojiscreen/pull/791) in [brittanyrw/emojiscreen](https://github.com/brittanyrw/emojiscreen)
-2. 💪 Opened PR [#5511](https://github.com/zooniverse/front-end-monorepo/pull/5511) in [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
-3. ❗ Opened issue [#5510](https://github.com/zooniverse/front-end-monorepo/issues/5510) in [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
-4. 🗣 Commented on [#5452](https://github.com/zooniverse/front-end-monorepo/issues/5452#issuecomment-1774032808) in [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
-5. 🗣 Commented on [#38](https://github.com/arifszn/OneClick/issues/38#issuecomment-1774028873) in [arifszn/OneClick](https://github.com/arifszn/OneClick)
+1. 🗣 Commented on [#791](https://github.com/brittanyrw/emojiscreen/pull/791#issuecomment-1774123970) in [brittanyrw/emojiscreen](https://github.com/brittanyrw/emojiscreen)
+2. 💪 Opened PR [#791](https://github.com/brittanyrw/emojiscreen/pull/791) in [brittanyrw/emojiscreen](https://github.com/brittanyrw/emojiscreen)
+3. 💪 Opened PR [#5511](https://github.com/zooniverse/front-end-monorepo/pull/5511) in [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
+4. ❗ Opened issue [#5510](https://github.com/zooniverse/front-end-monorepo/issues/5510) in [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
+5. 🗣 Commented on [#5452](https://github.com/zooniverse/front-end-monorepo/issues/5452#issuecomment-1774032808) in [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
