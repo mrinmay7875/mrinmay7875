@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12064](https://github.com/calcom/cal.com/issues/12064) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. 🗣 Commented on [#12064](https://github.com/calcom/cal.com/issues/12064#issuecomment-1777821168) in [calcom/cal.com](https://github.com/calcom/cal.com)
-3. ❗ Opened issue [#12064](https://github.com/calcom/cal.com/issues/12064) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. 🗣 Commented on [#24](https://github.com/naufaldi/next-landing-vpn/issues/24#issuecomment-1774148806) in [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn)
-5. 💪 Opened PR [#33](https://github.com/naufaldi/next-landing-vpn/pull/33) in [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn)
+1. ❗ Opened issue [#143](https://github.com/hellofaizan/xprofile/issues/143) in [hellofaizan/xprofile](https://github.com/hellofaizan/xprofile)
+2. 🔒 Closed issue [#12064](https://github.com/calcom/cal.com/issues/12064) in [calcom/cal.com](https://github.com/calcom/cal.com)
+3. 🗣 Commented on [#12064](https://github.com/calcom/cal.com/issues/12064#issuecomment-1777821168) in [calcom/cal.com](https://github.com/calcom/cal.com)
+4. ❗ Opened issue [#12064](https://github.com/calcom/cal.com/issues/12064) in [calcom/cal.com](https://github.com/calcom/cal.com)
+5. 🗣 Commented on [#24](https://github.com/naufaldi/next-landing-vpn/issues/24#issuecomment-1774148806) in [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
