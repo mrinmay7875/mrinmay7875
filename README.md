@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12067](https://github.com/calcom/cal.com/pull/12067#issuecomment-1778416018) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. 💪 Opened PR [#144](https://github.com/hellofaizan/xprofile/pull/144) in [hellofaizan/xprofile](https://github.com/hellofaizan/xprofile)
-3. ❗ Opened issue [#143](https://github.com/hellofaizan/xprofile/issues/143) in [hellofaizan/xprofile](https://github.com/hellofaizan/xprofile)
-4. 🔒 Closed issue [#12064](https://github.com/calcom/cal.com/issues/12064) in [calcom/cal.com](https://github.com/calcom/cal.com)
-5. 🗣 Commented on [#12064](https://github.com/calcom/cal.com/issues/12064#issuecomment-1777821168) in [calcom/cal.com](https://github.com/calcom/cal.com)
+1. 🗣 Commented on [#429](https://github.com/so-sc/sosc-website/issues/429#issuecomment-1778428164) in [so-sc/sosc-website](https://github.com/so-sc/sosc-website)
+2. 🗣 Commented on [#12067](https://github.com/calcom/cal.com/pull/12067#issuecomment-1778416018) in [calcom/cal.com](https://github.com/calcom/cal.com)
+3. 💪 Opened PR [#144](https://github.com/hellofaizan/xprofile/pull/144) in [hellofaizan/xprofile](https://github.com/hellofaizan/xprofile)
+4. ❗ Opened issue [#143](https://github.com/hellofaizan/xprofile/issues/143) in [hellofaizan/xprofile](https://github.com/hellofaizan/xprofile)
+5. 🔒 Closed issue [#12064](https://github.com/calcom/cal.com/issues/12064) in [calcom/cal.com](https://github.com/calcom/cal.com)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
