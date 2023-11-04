@@ -78,11 +78,11 @@ I am a fullstack developer always eager to learn and experiment with new things.
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9652](https://github.com/EddieHubCommunity/BioDrop/pull/9652#issuecomment-1791109909) in [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop)
-2. 🗣 Commented on [#9652](https://github.com/EddieHubCommunity/BioDrop/pull/9652#issuecomment-1785902662) in [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop)
-3. 🗣 Commented on [#9653](https://github.com/EddieHubCommunity/BioDrop/issues/9653#issuecomment-1784128954) in [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop)
-4. 🗣 Commented on [#209](https://github.com/haoxins/react-flatpickr/issues/209#issuecomment-1784028448) in [haoxins/react-flatpickr](https://github.com/haoxins/react-flatpickr)
-5. ❗ Opened issue [#9654](https://github.com/EddieHubCommunity/BioDrop/issues/9654) in [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop)
+1. ❌ Closed PR [#433](https://github.com/so-sc/sosc-website/pull/433) in [so-sc/sosc-website](https://github.com/so-sc/sosc-website)
+2. 🗣 Commented on [#9652](https://github.com/EddieHubCommunity/BioDrop/pull/9652#issuecomment-1791109909) in [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop)
+3. 🗣 Commented on [#9652](https://github.com/EddieHubCommunity/BioDrop/pull/9652#issuecomment-1785902662) in [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop)
+4. 🗣 Commented on [#9653](https://github.com/EddieHubCommunity/BioDrop/issues/9653#issuecomment-1784128954) in [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop)
+5. 🗣 Commented on [#209](https://github.com/haoxins/react-flatpickr/issues/209#issuecomment-1784028448) in [haoxins/react-flatpickr](https://github.com/haoxins/react-flatpickr)
 <!--END_SECTION:activity-->
 
 ## Activity Graph
